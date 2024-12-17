@@ -144,6 +144,6 @@ This project is open-source under the MIT License.
 ---
 
 ## Author
-**Your Name**
+**Yuvraj Jha**
 
 Feel free to contribute or open an issue!
